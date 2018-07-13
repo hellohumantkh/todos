@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "@aimake/babel-preset-react"
+  ],
+  "plugins": [
+    "styled-components"
+  ]
+}
