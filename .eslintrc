@@ -1,0 +1,17 @@
+{
+  "extends": "@aimake/eslint-config/react",
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest": true,
+    "es6": true
+  },
+  "rules": {
+    "no-console": 0
+  },
+  "globals": {
+    "GlobalConfig": true,
+    "__bl": true
+  }
+}
